@@ -1,1 +1,1 @@
-# BAG_about
+# This is a mockup page for BAG's about page
