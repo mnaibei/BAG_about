@@ -52,14 +52,3 @@ footer {
   padding: 10px 20px;
   cursor: pointer;
 }
-
-
-@media screen and (max-width: 600px) {
-  .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 70vh;
-  }
-}
