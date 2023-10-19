@@ -52,3 +52,14 @@ footer {
   padding: 10px 20px;
   cursor: pointer;
 }
+
+@media screen and (max-width: 600px) {
+  .feedback-form form {
+    width: 100%;
+    margin-bottom: 30%;
+  }
+
+  footer {
+    margin-top: 20%;
+  }
+}
